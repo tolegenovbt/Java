@@ -1,0 +1,33 @@
+1575354058689	Rename type 'Executor'
+1575354245832	Rename field 'techSupportGuies'
+1575388330701	Copy compilation units
+1575389491109	Copy compilation unit
+1575389749996	Copy compilation unit
+1575389770342	Copy compilation unit
+1575390986406	Rename local variable 't'
+1575432845188	Rename type 'Grade'
+1575433266974	Rename type 'ManagerPlace'
+1575433311213	Rename local variable 'place'
+1575463405019	Rename resource 'executors.ser'
+1575463410558	Delete element
+1575465556245	Delete element
+1575501996640	Rename field 'course'
+1575505770031	Rename local variable '_students'
+1575524239939	Delete element
+1575551357778	Rename method 'desUsers'
+1575551373520	Rename method 'desStudents'
+1575551405317	Rename method 'desTeachers'
+1575551487438	Rename method 'desManagers'
+1575551576165	Rename method 'desTechSupportGuys'
+1575551719373	Rename field 'order'
+1575551735295	Rename field 'doneOrder'
+1575551864880	Rename method 'desAdmins'
+1575551877599	Rename method 'desCourses'
+1575551885764	Rename method 'desSpecialities'
+1575551900972	Rename method 'desOrders'
+1575551943524	Rename method 'deserializeObjects'
+1575600402612	Rename field 'cipher'
+1575600434268	Rename local variable 'cipher'
+1575600444497	Rename method 'getCipher'
+1575600454620	Rename method 'setCipher'
+1575600461362	Rename local variable 'cipher'

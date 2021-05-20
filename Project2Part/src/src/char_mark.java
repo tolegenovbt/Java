@@ -1,0 +1,5 @@
+/**
+*/
+class char:mark {
+}
+

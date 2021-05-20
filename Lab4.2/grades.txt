@@ -1,0 +1,6 @@
+1) Ivanov Ivan - "A"
+2) Aliyev Ali - "F"
+3) Menshikov Sergey - "D"
+Average - 62,000000
+Maximum - 100
+Minimum - 22

@@ -1,0 +1,65 @@
+Username: rakhatadmin
+Password: 682054370
+Wed Oct 23 08:09:02 ALMT 2019 admin logged into a system
+Wed Oct 23 08:09:27 ALMT 2019 admin logged into a system
+Wed Oct 23 08:11:24 ALMT 2019 admin added new instructor "Shamoi Pakizar IT @pakita883"
+Wed Oct 23 08:11:57 ALMT 2019 admin added new textbook "Shamoi 093012535115"
+Wed Oct 23 08:11:57 ALMT 2019 admin added new course "Course:OOP
+Teacher: Shamoi Pakizar IT @pakita883
+Book: Shamoi 093012535115"
+Wed Oct 23 08:12:56 ALMT 2019 admin added new instructor "Askar Akshabayev IT askarakshabayev@gmail.com"
+Wed Oct 23 08:13:46 ALMT 2019 admin added new textbook "Alogithmiy Aditiya"
+Wed Oct 23 08:13:46 ALMT 2019 admin added new course "Course:Alog
+Teacher: Askar Akshabayev IT askarakshabayev@gmail.com
+Book: Alogithmiy Aditiya"
+Wed Oct 23 08:14:25 ALMT 2019 admin logged into a system
+Wed Oct 23 10:15:46 ALMT 2019 admin logged into a system
+Wed Oct 23 10:16:14 ALMT 2019 admin added new instructor "Shamoi Pakizar IT pakita@gmail.com"
+Wed Oct 23 10:16:28 ALMT 2019 admin added new textbook "Pakizar 9502856320"
+Wed Oct 23 10:16:28 ALMT 2019 admin added new course "Course:OOP
+Teacher: Shamoi Pakizar IT pakita@gmail.com
+Book: Pakizar 9502856320"
+Wed Oct 23 20:27:21 ALMT 2019 admin logged into a system
+Wed Oct 23 20:28:18 ALMT 2019 admin added new instructor "BRB BRB Basic_Faculty bekenove@gmail.com"
+Wed Oct 23 20:28:47 ALMT 2019 admin added new textbook "BRB 959865413134"
+Wed Oct 23 20:28:47 ALMT 2019 admin added new course "Course:Rus
+Teacher: BRB BRB Basic_Faculty bekenove@gmail.com
+Book: BRB 959865413134"
+Wed Oct 23 20:29:34 ALMT 2019 admin logged into a system
+Wed Oct 23 20:33:49 ALMT 2019 admin logged into a system
+Wed Oct 23 20:34:44 ALMT 2019 admin logged into a system
+Wed Oct 23 20:35:29 ALMT 2019 admin added new instructor "Larisa Kizieva AiU kizieva@gmail.com"
+Wed Oct 23 20:35:52 ALMT 2019 admin added new instructor "Larisa Kizieva AiU kizieva@gmail.com"
+Wed Oct 23 20:36:16 ALMT 2019 admin added new textbook "Tommy Bondar"
+Wed Oct 23 20:36:16 ALMT 2019 admin added new course "Course:FEE
+Teacher: Larisa Kizieva AiU kizieva@gmail.com
+Book: Tommy Bondar"
+Wed Oct 23 20:46:24 ALMT 2019 admin logged into a system
+Wed Oct 23 20:49:23 ALMT 2019 admin logged into a system
+Wed Oct 23 20:54:14 ALMT 2019 admin logged into a system
+Wed Oct 23 20:54:37 ALMT 2019 admin logged into a system
+Wed Oct 23 20:55:59 ALMT 2019 admin logged into a system
+Wed Oct 23 21:05:40 ALMT 2019 admin logged into a system
+Wed Oct 23 21:06:09 ALMT 2019 admin added new instructor "Pakizar Shamoi IT pakizar@gmail.com"
+Wed Oct 23 21:06:29 ALMT 2019 admin added new textbook "Pakita 54354543153"
+Wed Oct 23 21:06:29 ALMT 2019 admin added new course "Course:OOP
+Teacher: Pakizar Shamoi IT pakizar@gmail.com
+Book: Pakita 54354543153"
+Wed Oct 23 21:07:22 ALMT 2019 admin logged into a system
+Wed Oct 23 21:08:04 ALMT 2019 admin logged into a system
+Wed Oct 23 21:08:30 ALMT 2019 admin logged into a system
+Wed Oct 23 21:08:49 ALMT 2019 admin logged into a system
+Wed Oct 23 21:18:36 ALMT 2019 admin logged into a system
+Wed Oct 23 21:19:31 ALMT 2019 admin added new instructor "Raikhan Bekenova | Basic_Department | bekenovaraikhan@gmail.com"
+Thu Oct 24 09:38:05 ALMT 2019 admin logged into a system
+Thu Oct 24 09:38:46 ALMT 2019 admin added new instructor "Larisa Kizieva | FEE | kizieva@gmail.com"
+Thu Oct 24 09:39:15 ALMT 2019 admin added new textbook "Krolov 985342649216 Fundamentals_of_electrical_engineering"
+Thu Oct 24 09:39:15 ALMT 2019 admin added new course "	Course:FEE
+	Teacher: Larisa Kizieva | FEE | kizieva@gmail.com
+	Book: Krolov 985342649216 Fundamentals_of_electrical_engineering"
+Thu Oct 24 09:40:05 ALMT 2019 admin added new instructor "Raikhan Bekenova | BasicLanguage | bekenovaraikhan@gmail.com"
+Thu Oct 24 09:40:17 ALMT 2019 admin added new textbook "BRB 1651354681654 Rus2019"
+Thu Oct 24 09:40:17 ALMT 2019 admin added new course "	Course:RusLan
+	Teacher: Raikhan Bekenova | BasicLanguage | bekenovaraikhan@gmail.com
+	Book: BRB 1651354681654 Rus2019"
+Thu Oct 24 09:41:05 ALMT 2019 admin logged into a system

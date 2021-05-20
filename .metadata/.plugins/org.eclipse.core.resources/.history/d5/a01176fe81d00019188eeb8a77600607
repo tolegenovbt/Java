@@ -1,0 +1,42 @@
+import java.util.Scanner;
+public class Task3 {
+	public static void main(String[] args)
+	{
+		Scanner in = new Scanner(System.in);
+		String s = "0";
+		Data uy = new Data();
+		
+	}
+	class Data
+	{
+		private int n;
+		private double average;
+		private double maximum;
+		
+		public Data()
+		{
+		}
+		
+		public void setData(int integer)
+		{
+			average+=integer;
+			n++;
+			if(n==0)
+			maximum=integer;
+			else
+				if(maximum<integer)
+					maximum=integer;
+		}
+		public double getAverage()
+		{
+			if(n!=0)
+				return average/n;
+			else
+				return 0;
+		}
+		public double getMax()
+		{
+			return maximum;
+		}
+	}
+}

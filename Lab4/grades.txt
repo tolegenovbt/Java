@@ -1,0 +1,7 @@
+1) Ivanov Ivan - "A"
+2) Aliev Ali - "F"
+3) Azatov Azat - "D"
+4) Tolegenov Bekzat - "A"
+Average - 69
+Maximum - 99
+Minimum - 22

@@ -1,0 +1,4 @@
+Ivanov Ivan 90
+Aliev Ali 22
+Azatov Azat 65
+Tolegenov Bekzat 99
